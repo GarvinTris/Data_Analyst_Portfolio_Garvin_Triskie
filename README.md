@@ -1,6 +1,6 @@
 # Curriculum vitae
 
-This project was made to train my analysis and turn it into a portfolio. Projects allow me to understand the ways to analyze problems, using frameworks, enhance business innovation & decision-making, gain more domain knowledge, Improve decision, data storytelling, visualization, Recommendation based on analysis and documentation by using data-driven approaches.
+This project was made to train my analysis by using tools `(Excel,SQL,Tableau,Power BI)` and turn it into a portfolio. Projects allow me to understand the ways to analyze problems, using frameworks, enhance business innovation & decision-making, gain more domain knowledge, Improve decision, data storytelling, visualization, Recommendation based on analysis and documentation by using data-driven approaches.
 
 ## Table Of Content
 ### Excel
