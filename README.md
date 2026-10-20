@@ -56,6 +56,7 @@ My goal is to transform raw data into meaningful insights that help identify bus
 | Project | Description | Status |
 |---|---|---|
 | [E-commerce Customer Dashboard](#) | Build an interactive dashboard to explore customer behavior and communicate key findings. | 🔄 In Progress |
+| [Shopora E-commerce Customer Behavior Analytics — Churn Analysis](https://docs.google.com/presentation/d/1cESo4-5A4saoENdRRljPT_y3aYb5-lVk/edit?usp=sharing) | Analyze customer behavior and investigate patterns associated with customer churn. See the Deep Milestone presentation for project details. | 🔄 In Progress |
 | [FMCG Regional Sales Dashboard](#) | Visualize sales trends, regional performance, product categories, sales channels, and promotion-related differences. | 📝 Planned |
 
 ### 📉 Power BI
@@ -89,6 +90,7 @@ My current learning focus is on applying data analytics to business domains, par
 - **E-commerce Analytics** — customer behavior and purchasing patterns
 - **Retail Analytics** — sales performance and product contribution
 - **FMCG Analytics** — regional performance, sales channels, and promotions
+- **Customer Analytics** — churn patterns and customer behavior
 - **Business Intelligence** — KPI monitoring, interactive dashboards, and data storytelling
 
 ## Learning Approach
